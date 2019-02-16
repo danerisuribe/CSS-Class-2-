@@ -1,0 +1,43 @@
+
+
+
+body{
+		color:blue; 
+		background-color:yellow; 
+			font-family: 'Coiny', cursive; 
+}
+
+p{
+	text-align:center; 
+}
+h1{
+	
+	color:purple;
+	text-align:center; 
+}
+
+h2 { 
+text-align:center; 
+
+
+}
+
+img {
+	display:block; 
+	margin-left: auto;
+	margin-right:auto;
+}
+
+
+
+.caption { 
+font-family: Georgia; 
+text-decoration:underline; 
+font-style:italic; 
+color:green; 
+border:solid white 5px; 
+}
+
+#specialImage{
+	border: dotted red 10px; 
+}
